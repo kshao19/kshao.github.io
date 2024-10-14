@@ -26,7 +26,7 @@ author:
   pronouns         : "She/Her/Hers"# example: "she/her"  
   bio              : "Tableware Collector"
   location         : "New York City, US"
-  employer         : <a href="https://www.vassar.edu/">Vassar College</a>
+  employer         : [Vassar College](https://www.vassar.edu/)
   uri              : # URL
   email            : "Kailai_shao@outlook.com" 
 
